@@ -1,0 +1,16 @@
+let name="Name - Sheikh Tahir";
+console.log(name);
+let school="School Name - Kendriya Vidyalaya";
+console.log(school);
+let grade="Grade - O Grade";
+console.log(grade);
+let section="Section - B";
+console.log(section);
+let roll="Roll no - 100";
+console.log(roll);
+let physics="Physics - 80";
+console.log(physics);
+let maths="Maths - 85";
+console.log(maths);
+let chemistry="Chemistry - 90";
+console.log(chemistry);
